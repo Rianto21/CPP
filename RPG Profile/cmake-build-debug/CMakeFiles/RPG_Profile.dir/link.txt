@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\RPG_Profile.dir/objects.a
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ar.exe cr CMakeFiles\RPG_Profile.dir/objects.a @CMakeFiles\RPG_Profile.dir\objects1.rsp
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE -g -Wl,--whole-archive CMakeFiles\RPG_Profile.dir/objects.a -Wl,--no-whole-archive -o RPG_Profile.exe -Wl,--out-implib,libRPG_Profile.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\RPG_Profile.dir\linklibs.rsp
