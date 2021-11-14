@@ -14,11 +14,5 @@ int main(){
   }
   cout << "Total Input is: " << sum << endl;
 
-
-  //
-
-
-
-
   return 0;
 }
